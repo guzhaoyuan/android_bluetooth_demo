@@ -1,0 +1,3 @@
+1.oncreate()的switchSettings()里switchBtn的状态一直不对，每次打开页面switch就是关闭状态，应该对应于当前蓝牙状态
+2.按“当前交易”按钮，每次进去都是只有一个start按钮，不合理(学习使用onResume())
+3.第二次进入APP，蓝牙为已经连接的状态，但是仍然需要搜索
